@@ -1,31 +1,20 @@
 ﻿using System;
-using System.Drawing;
 using System.Drawing.Imaging;
 using System.IO;
 using System.Text;
-using System.Threading;
-using System.Threading.Tasks;
 using System.Windows.Forms;
-using Microsoft.Win32;
 
 namespace SaveImageFile
 {
     static class Program
     {
-        public static string CurrentLocation = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
         public const string DefaultFilenameFormat = "dd.MM.yyyy HH.mm.ss";
+        public static string CurrentLocation = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
         /// <summary>
         /// Главный метод для приложения.
         /// </summary>
         [STAThread]
         static void Main(string[] args)
-        {
-            Save();
-        }
-        /// <summary>
-        /// Сохраняет текстовый файл или изображение из буфера обмена.
-        /// </summary>
-        private static void Save()
         {
             string location = CurrentLocation.EndsWith("\\") ? CurrentLocation : CurrentLocation + "\\";
             string filename = DateTime.Now.ToString(DefaultFilenameFormat);
