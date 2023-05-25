@@ -12,8 +12,8 @@ namespace SaveImageFile
 {
     static class Program
     {
-        public const string CurrentLocation = "C:\\Users\\evgen\\Desktop";
-        public const string DefaultFilenameFormat = "dd.MM.yyyy HH.mm";
+        public static string CurrentLocation = Environment.GetFolderPath(Environment.SpecialFolder.DesktopDirectory);
+        public const string DefaultFilenameFormat = "dd.MM.yyyy HH.mm.ss";
         /// <summary>
         /// Главный метод для приложения.
         /// </summary>
