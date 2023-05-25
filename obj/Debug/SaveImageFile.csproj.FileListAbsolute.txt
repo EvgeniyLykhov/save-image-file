@@ -1,0 +1,10 @@
+A:\Программирование (вне учебы)\SaveImageFile\bin\Debug\SaveImageFile.exe.config
+A:\Программирование (вне учебы)\SaveImageFile\bin\Debug\SaveImageFile.exe
+A:\Программирование (вне учебы)\SaveImageFile\bin\Debug\SaveImageFile.pdb
+A:\Программирование (вне учебы)\SaveImageFile\obj\Debug\SaveImageFile.csproj.AssemblyReference.cache
+A:\Программирование (вне учебы)\SaveImageFile\obj\Debug\SaveImageFile.csproj.SuggestedBindingRedirects.cache
+A:\Программирование (вне учебы)\SaveImageFile\obj\Debug\SaveImageFile.Properties.Resources.resources
+A:\Программирование (вне учебы)\SaveImageFile\obj\Debug\SaveImageFile.csproj.GenerateResource.cache
+A:\Программирование (вне учебы)\SaveImageFile\obj\Debug\SaveImageFile.csproj.CoreCompileInputs.cache
+A:\Программирование (вне учебы)\SaveImageFile\obj\Debug\SaveImageFile.exe
+A:\Программирование (вне учебы)\SaveImageFile\obj\Debug\SaveImageFile.pdb
