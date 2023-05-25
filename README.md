@@ -1,7 +1,7 @@
 # SaveImageFile
-Сохраняет изображение или текст из буфера обмена в виде файла.
-# Загрузка и настройка
-Для загрузки необходимо перейти в [Releases](https://github.com/EvgeniyLykhov/SaveImageFile/releases/tag/Latest) и установить файл. Если необходимо изменить путь сохранения (по умолчанию: рабочий стол), то необходимо скачать код приложения.
-Также можно изменить формат названия создаваемого файла (по умолчанию: dd.MM.yyyy HH.mm) в исходном коде.
-# Использование
-Для использования программы необходимо скопировать изображение или текст в буфер обмена. После чего запустить приложение и файл будет сохранен по указаному вами пути (по умолчанию - рабочий стол).
+Saves an image or text from the clipboard as a file.
+# Download and Setup
+To download, go to [Releases](https://github.com/Evgeniy Lykov/Save Image File/releases/tag/Latest) and install the file. If you need to change the save path (default: desktop), then you need to download the application code.
+You can also change the format of the name of the created file (by default: dd.MM.yyyy HH.mm ) in the source code.
+# Using
+To use the program, you need to copy an image or text to the clipboard. After that, launch the application and the file will be saved to the path you specified (default: desktop).
